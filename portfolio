@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 0.5em;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Ayush Srivastava - Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Ayush Srivastava</h1>
+        <p>Web Developer</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>As a Software Engineer, I leverage my extensive experience in the dynamic realm of software development, specializing in [specific areas of expertise, e.g., full-stack development, system architecture]. Throughout my career, I have demonstrated proficiency in [mention relevant programming languages or technologies], translating conceptual ideas into robust and scalable software solutions.</p> 
+        <p>        My track record includes successfully spearheading projects where I [highlight key accomplishments or outcomes, e.g., optimized application performance, implemented critical features]. I thrive in collaborative environments, fostering effective communication and teamwork to deliver high-quality results within specified timelines.</p>
+
+           <p> What fuels my enthusiasm in this field is my unwavering passion for [specific aspect of software engineering, e.g., creating elegant and efficient algorithms, building intuitive user interfaces]. I am committed to staying at the forefront of industry trends, continuously expanding my skill set to embrace emerging technologies.</p>         
+          <p>  In each endeavor, my goal is to not only meet but exceed expectations, contributing my expertise to drive innovation and excellence. I am excited about the opportunity to bring my unique perspective and technical prowess to future projects, ensuring they not only meet but exceed the evolving demands of the software landscape.</p>
+        </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>As a dedicated and experienced software engineer, I possess a comprehensive skill set that extends across various programming languages, with a strong proficiency in Java and Python. Over the course of my career, I have successfully navigated and contributed to the development of robust and scalable software solutions. My journey in the field has been characterized by a commitment to tackling complex challenges and translating intricate concepts into streamlined and user-friendly applications.</p>
+         <p>   My passion for innovation drives me to stay at the forefront of technological advancements, ensuring that I can leverage the latest tools and methodologies to create cutting-edge software. With a proven track record of delivering successful projects, I take pride in my ability to collaborate effectively with cross-functional teams. This collaborative spirit allows me to align technical solutions with both user needs and broader business objectives.</p>
+            <p>Embracing a mindset of continuous learning, I am enthusiastic about exploring new horizons in software engineering. I see each project as an opportunity to not only apply my existing expertise but also to expand my knowledge base and contribute meaningfully to the ever-evolving landscape of technology.</p>
+            <p>In summary, I am a passionate software engineer with a proven ability to bring ideas to life through technology. I am eager to contribute my skills and experience to create exceptional digital experiences and solve complex problems collaboratively. Let's embark on this journey together, shaping the future of software development</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me at: as2027912@gmail.com</p>
+        <p>Contact Number: 8115694114</p>
+    </section>
+
+    <footer>
+        <p>&copy; Ayush Srivastava</p>
+    </footer>
+</body>
+</html>
